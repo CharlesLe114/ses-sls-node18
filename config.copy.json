@@ -1,8 +1,8 @@
 {
   "aws": {
-    "accessKeyId": "AKIA57OBAXZYJSMYHIUO",
-    "secretAccessKey": "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",
-    "region": "ap-southeast-1"
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": ""
   },
   "slackWebhook": ""
 }
